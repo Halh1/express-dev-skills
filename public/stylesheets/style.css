@@ -1,8 +1,23 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a {
-  color: #00B7FF;
+  color: #0d8dc0;
 }
+
+li a {
+  color: #0d8dc0;
+  font-size: 16px;
+}
+
+h1 {
+  color:rebeccapurple;
+}
+
+ul { 
+  list-style-type: square; 
+  color: #0d8dc0;
+} 
