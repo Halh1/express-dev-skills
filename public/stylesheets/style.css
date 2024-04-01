@@ -16,8 +16,14 @@ li a {
 h1 {
   color:rebeccapurple;
 }
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+}
+.delete-form button {
+  color:rebeccapurple;
+}
 
-ul { 
-  list-style-type: square; 
-  color: #0d8dc0;
-} 
+li {
+  list-style: none;
+}
